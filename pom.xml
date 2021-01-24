@@ -121,6 +121,13 @@
 		<!-- </dependency> -->
 		<!-- Se Não tiver o JAR JPAMODELGEN ATIVAR -->
 
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.16</version>
+			<scope>provided</scope>
+		</dependency>
+
 	</dependencies>
 
 	<build>
